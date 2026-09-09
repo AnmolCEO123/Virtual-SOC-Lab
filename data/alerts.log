@@ -1,0 +1,2 @@
+2026-09-08T20:33:25.324011 severity=HIGH alert_type=BRUTE_FORCE src_ip=192.168.56.10 description=Multiple failed login attempts detected
+2026-09-08T20:33:25.324391 severity=MEDIUM alert_type=HTTP_403 src_ip=192.168.56.30 path=/admin description=Forbidden web resource access detected

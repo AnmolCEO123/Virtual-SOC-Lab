@@ -1,0 +1,7 @@
+2026-09-08T20:26:51 event=LOGIN_SUCCESS user=analyst src_ip=192.168.56.20
+2026-09-08T20:26:51 event=LOGIN_FAILURE user=admin src_ip=192.168.56.10
+2026-09-08T20:27:01 event=LOGIN_FAILURE user=admin src_ip=192.168.56.10
+2026-09-08T20:27:11 event=LOGIN_FAILURE user=admin src_ip=192.168.56.10
+2026-09-08T20:27:21 event=LOGIN_FAILURE user=admin src_ip=192.168.56.10
+2026-09-08T20:27:31 event=LOGIN_FAILURE user=admin src_ip=192.168.56.10
+2026-09-08T20:28:01 event=LOGIN_SUCCESS user=analyst src_ip=192.168.56.20

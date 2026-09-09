@@ -1,0 +1,4 @@
+2026-09-08T20:26:51 method=GET path=/login src_ip=192.168.56.20 status=200
+2026-09-08T20:27:06 method=GET path=/admin src_ip=192.168.56.30 status=403
+2026-09-08T20:27:21 method=GET path=/dashboard src_ip=192.168.56.20 status=200
+2026-09-08T20:27:36 method=GET path=/robots.txt src_ip=192.168.56.30 status=200
