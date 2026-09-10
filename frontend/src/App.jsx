@@ -324,7 +324,7 @@ function App() {
     setAnalysisError("");
 
     try {
-      const apiBase = import.meta.env.VITE_API_URL || "http://127.0.0.1:5000";
+      const apiBase = "https://virtual-soc-lab.onrender.com";
 
       const response = await fetch(
         `${apiBase}/api/analyze?target=${encodeURIComponent(cleanTarget)}`,
